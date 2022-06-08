@@ -1,0 +1,8 @@
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\bin\Debug\ClienteREST.exe.config
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\bin\Debug\ClienteREST.exe
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\bin\Debug\ClienteREST.pdb
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\obj\Debug\ClienteREST.csproj.AssemblyReference.cache
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\obj\Debug\ClienteREST.csproj.SuggestedBindingRedirects.cache
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\obj\Debug\ClienteREST.csproj.CoreCompileInputs.cache
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\obj\Debug\ClienteREST.exe
+E:\REPOSITORIOS\UCSE\papa\rest-papa\ClienteREST\obj\Debug\ClienteREST.pdb
